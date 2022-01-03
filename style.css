@@ -1,0 +1,11 @@
+.input_style{
+    padding: 1%;
+    margin: 1%;
+}
+.day{
+    color: blue;
+    font-size: large;
+}
+.show{
+    font-weight: bold;
+}
